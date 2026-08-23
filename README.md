@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AtifMehm00d
-- 👀 I’m interested in ...
-- 🌱 I’m currently doing Software Engineering from virtual university.
+- 👀 I’m interested in doing some Software Development.
+- 🌱 Bachelor's in Software Engineering from Virtual University.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me sardaratifmehmood@gmail.com
+- 📫 You can reach me at sardaratifmehmood@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
